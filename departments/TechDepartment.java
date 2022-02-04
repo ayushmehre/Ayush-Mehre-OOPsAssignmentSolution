@@ -1,4 +1,7 @@
+package departments;
+
 public class TechDepartment extends SuperDepartment {
+
     public String departmentName() {
         return " Tech Department ";
     }

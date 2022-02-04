@@ -1,4 +1,7 @@
+package departments;
+
 public class AdminDepartment extends SuperDepartment {
+
     public String departmentName() {
         return " Admin Department ";
     }

@@ -1,3 +1,5 @@
+package departments;
+
 public class SuperDepartment {
 
     public String departmentName() {
