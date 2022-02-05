@@ -18,6 +18,7 @@ public class Main {
         print(hrDepartment.doActivity());
         print(hrDepartment.getTodaysWork());
         print(hrDepartment.getWorkDeadline());
+        print(hrDepartment.isTodayAHoliday());
         print("\n");
 
         // Creating TechDepartment Object and printing its results.
