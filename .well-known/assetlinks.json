@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "life.getsuper.droid",
+            "sha256_cert_fingerprints": [
+                "8D:61:C5:3A:AC:57:E3:8E:0E:BB:AB:26:D0:34:B0:47:75:BC:EE:3A:4F:34:AE:AA:FD:DA:FF:F3:EE:6C:40:ED"
+            ]
+        }
+    }
+]
